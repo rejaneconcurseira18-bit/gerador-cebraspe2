@@ -1,0 +1,6 @@
+pymupdf
+pypdf
+pdfplumber
+reportlab
+Pillow
+ipywidgets
